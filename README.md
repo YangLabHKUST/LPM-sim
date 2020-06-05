@@ -1,5 +1,5 @@
 # LPM-sim
-We provide all the simulation codes in LPM.
+We provide all the simulation codes in the LPM paper.
 
 References
 ==========
